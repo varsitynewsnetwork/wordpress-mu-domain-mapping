@@ -1,0 +1,12 @@
+{
+    "name": "vnn/wordpress-mu-domain-mapping",
+    "description": "A fork of wp-plugins/wordpress-mu-domain-mapping with support for Bedrock WordPress and mu-plugins",
+    "type": "wordpress-muplugin",
+    "authors": [
+        {
+            "name": "Mark Boudreau",
+            "email": "mark@varsitynewsnetwork.com"
+        }
+    ],
+    "require": {}
+}
